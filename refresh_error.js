@@ -6,6 +6,8 @@
 // @author       doeruth
 // @include      *.dostream.com/*
 // @include      *player.twitch.tv/*
+// @homepageURL https://raw.githubusercontent.com/doeruth/RefreshErrorTwitch/main/refresh_error.js
+// @downloadURL https://raw.githubusercontent.com/doeruth/RefreshErrorTwitch/main/refresh_error.js
 // @require https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 // @require https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js
 // @require https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js
