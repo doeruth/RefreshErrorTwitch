@@ -2,7 +2,8 @@
 // @name         Refresh #2000 error
 // @namespace    doeruth
 // @version      0.1
-// @description  try to take over the world!
+// @description  두스트림 트위치 2000에러 시 자동 새로고침
+// @supportURL   https://github.com/doeruth/RefreshErrorTwitch/issues
 // @author       doeruth
 // @include      *.dostream.com/*
 // @include      *player.twitch.tv/*
