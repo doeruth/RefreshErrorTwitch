@@ -1,5 +1,5 @@
 # RefreshErrorTwitch
-트위치 오류 #2000 발생 시 자동 새로고침 해주는 스크립트
+트위치 오류 #2000 발생 시 자동 새로고침 해주는 스크립트 - 두스트림에서만 작동
 
 ## tampermonkey 확장 설치 이후 아래의 링크를 클릭
 - [링크](https://raw.githubusercontent.com/doeruth/RefreshErrorTwitch/master/refresh_error.js)
